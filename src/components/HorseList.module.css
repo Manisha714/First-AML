@@ -1,0 +1,32 @@
+.horses-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.table {
+  width: 100%;
+}
+
+.horseData {
+  text-align: center;
+}
+
+.pagination {
+  margin-top: 22px;
+}
+
+.button {
+  font: inherit;
+  cursor: pointer;
+  background: white;
+  border: 1px solid black;
+  color: black;
+  padding: 0px 6px !important;
+  border-radius: 0px;
+}
+
+.button:hover, .button:active {
+  background-color: white;
+  border-color: black;
+}
